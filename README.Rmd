@@ -40,7 +40,7 @@ In this repository you can find our term and concept list and all the additional
 
 # Part 2: Pipeline for a Term Count
 
-The repository can be found here: [https://github.com/MatthiasUckert/](https://github.com/MatthiasUckert/Terminology){.uri}[Pipeline](https://github.com/MatthiasUckert/Pipeline "Pipeline"){.uri}
+The repository can be found here: <https://github.com/MatthiasUckert/Pipeline>
 
 In this repository you can find our term and concept list and all the additional list that we publish together with the paper.
 

@@ -52,9 +52,7 @@ additional list that we publish together with the paper.
 # Part 2: Pipeline for a Term Count
 
 The repository can be found here:
-<a href="https://github.com/MatthiasUckert/Terminology"
-class="uri">https://github.com/MatthiasUckert/</a><a href="https://github.com/MatthiasUckert/Pipeline" class="uri"
-title="Pipeline">Pipeline</a>
+<https://github.com/MatthiasUckert/Pipeline>
 
 In this repository you can find our term and concept list and all the
 additional list that we publish together with the paper.
