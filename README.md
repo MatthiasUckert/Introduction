@@ -3,8 +3,8 @@
 
 # About the Paper
 
-The following Readme provides additional information and files for the
-Paper:
+This Readme provides supplementary materials and resources related to
+the paper:
 
 ***“The Standardization of Accounting Language”.***
 
@@ -31,13 +31,15 @@ reducing information processing costs.
 
 </div>
 
-The complete GitHub repositories consist of 3 parts.
+The complete GitHub repositories consist of 4 parts:
 
-1.  Part 1: Additional Information for the Paper
+1.  **Part 1:** Additional Information for the Paper
 
-2.  Part 2: Accompanying R Package - Count Terms in a Corpus
+2.  **Part 2:** Pipeline for a Term Count
 
-3.  Part 3: Accompanying R Package - Match Company Names
+3.  **Part 3:** Accompanying R Package - Count Terms in a Corpus
+
+4.  **Part 4:** Accompanying R Package - Match Company Names
 
 # Part 1: Additional Information for the Paper
 
@@ -47,7 +49,17 @@ The repository can be found here:
 In this repository you can find our term and concept list and all the
 additional list that we publish together with the paper.
 
-# Part 2: Accompanying R Package - Count Terms in a Corpus
+# Part 2: Pipeline for a Term Count
+
+The repository can be found here:
+<a href="https://github.com/MatthiasUckert/Terminology"
+class="uri">https://github.com/MatthiasUckert/</a><a href="https://github.com/MatthiasUckert/Pipeline" class="uri"
+title="Pipeline">Pipeline</a>
+
+In this repository you can find our term and concept list and all the
+additional list that we publish together with the paper.
+
+# Part 3: Accompanying R Package - Count Terms in a Corpus
 
 This is the package we use for retrieving the position of our terms in
 our annual report corpus.
@@ -55,7 +67,7 @@ our annual report corpus.
 The package can be wound here:
 <https://github.com/MatthiasUckert/rTermCount>
 
-# Part 3: Accompanying R Package - Match Company Names
+# Part 4: Accompanying R Package - Match Company Names
 
 This is the package we use for matching our annual report data set to
 Worldscope
