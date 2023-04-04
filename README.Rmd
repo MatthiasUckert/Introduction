@@ -24,9 +24,9 @@ This Readme provides supplementary materials and resources related to the paper:
 
 The complete GitHub repositories consist of 4 parts:
 
-1.  **Part 1:** Additional Information for the Paper
+1.  **Part 1:** Supplementary Material for the Paper
 
-2.  **Part 2:** Pipeline for a Term Count
+2.  **Part 2:** Pipeline for counting terms in an Annual Report
 
 3.  **Part 3:** Accompanying R Package - Count Terms in a Corpus
 
