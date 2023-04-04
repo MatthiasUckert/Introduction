@@ -15,17 +15,17 @@ information requires a special vocabulary, and, in specialized
 languages, standardization is a key to clear communication. We provide
 the first large-sample evidence on the level, determinants, and
 implications of accounting terminology standardization for the universe
-of corporate filings written in English, the lingua franca of capi-tal
+of corporate filings written in English, the lingua franca of capital
 markets. Three main takeaways emerge from our analyses. First, we
 describe the use and properties of accounting terminology and find that
 cognitive and dialectal causes (e.g., account-ing systems and English
 proficiency) are the most important drivers of terminology
-standardiza-tion. Second, the adoption of a new reference framework of
+standardization. Second, the adoption of a new reference framework of
 accounting terms or tags (i.e., the introduction of IFRS and XBRL)
 increases standardization but conceals linguistics-related
-het-erogeneities. Third, terminology standardization is negatively
-associated with both the incom-pleteness within and differences across
-accounting databases, consistent with the idea of stand-ardized language
+heterogeneities. Third, terminology standardization is negatively
+associated with both the incompleteness within and differences across
+accounting databases, consistent with the idea of standardized language
 being instrumental for users in extracting accounting information and
 reducing information processing costs.
 
@@ -72,8 +72,3 @@ Worldscope
 
 The package can be wound here:
 <https://github.com/MatthiasUckert/rMatching>
-
-# Additional Information
-
-If you have any questions or issues accessing the repository or
-packages, please contact us at {email address}.
