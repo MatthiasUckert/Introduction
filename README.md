@@ -31,7 +31,7 @@ reducing information processing costs.
 
 </div>
 
-The complete GitHub repositories consist of 4 parts:
+The complete GitHub repositories consist of three parts:
 
 - **Part 1:** Supplementary Material for the Paper
 
