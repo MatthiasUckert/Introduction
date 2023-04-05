@@ -45,8 +45,8 @@ The complete GitHub repositories consist of three parts:
 
 # Part 1: Supplementary Material for the Paper
 
-In this repository you can find our term and concept list and all the
-additional list that we publish together with the paper.
+In this repository you can find our term and concept list and the
+additional lists that we publish together with the paper.
 
 The repository can be found here:
 <https://github.com/MatthiasUckert/Terminology>
