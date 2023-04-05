@@ -18,7 +18,7 @@ implications of accounting terminology standardization for the universe
 of corporate filings written in English, the lingua franca of capital
 markets. Three main takeaways emerge from our analyses. First, we
 describe the use and properties of accounting terminology and find that
-cognitive and dialectal causes (e.g., account-ing systems and English
+cognitive and dialectal causes (e.g., accounting systems and English
 proficiency) are the most important drivers of terminology
 standardization. Second, the adoption of a new reference framework of
 accounting terms or tags (i.e., the introduction of IFRS and XBRL)
@@ -33,42 +33,44 @@ reducing information processing costs.
 
 The complete GitHub repositories consist of 4 parts:
 
-1.  **Part 1:** Supplementary Material for the Paper
+- **Part 1:** Supplementary Material for the Paper
 
-2.  **Part 2:** Pipeline for counting terms in an Annual Report
+- **Part 2:** Pipeline for counting terms in an Annual Report
 
-3.  **Part 3:** Accompanying R Package - Count Terms in a Corpus
+- **Part 3:** Accompanying R Packages
 
-4.  **Part 4:** Accompanying R Package - Match Company Names
+  - **Part 3a**: Count Terms in a Corpus
 
-# Part 1: Additional Information for the Paper
+  - **Part 3b:** Match Company Names
+
+# Part 1: Supplementary Material for the Paper
+
+In this repository you can find our term and concept list and all the
+additional list that we publish together with the paper.
 
 The repository can be found here:
 <https://github.com/MatthiasUckert/Terminology>
 
-In this repository you can find our term and concept list and all the
-additional list that we publish together with the paper.
+# Part 2: Pipeline for counting terms in an Annual Report
 
-# Part 2: Pipeline for a Term Count
+In this repository we provide a simple pipeline of counting terms in an
+Annual Report. This pipeline replicates the procedure used in the paper.
 
 The repository can be found here:
 <https://github.com/MatthiasUckert/Pipeline>
 
-In this repository you can find our term and concept list and all the
-additional list that we publish together with the paper.
+# Part 3a: Accompanying R Package - Count Terms in a Corpus
 
-# Part 3: Accompanying R Package - Count Terms in a Corpus
+This is the package we use for counting the occurrences of of our term
+list in our annual report corpus.
 
-This is the package we use for retrieving the position of our terms in
-our annual report corpus.
-
-The package can be wound here:
+The package can be found here:
 <https://github.com/MatthiasUckert/rTermCount>
 
-# Part 4: Accompanying R Package - Match Company Names
+# Part 3b: Accompanying R Package - Match Company Names
 
 This is the package we use for matching our annual report data set to
-Worldscope
+Worldscope by company name.
 
-The package can be wound here:
+The package can be found here:
 <https://github.com/MatthiasUckert/rMatching>
