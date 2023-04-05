@@ -31,7 +31,7 @@ reducing information processing costs.
 
 </div>
 
-The complete GitHub repositories consist of 4 parts:
+The complete GitHub repositories consist of three parts:
 
 - **Part 1:** Supplementary Material for the Paper
 
@@ -45,8 +45,8 @@ The complete GitHub repositories consist of 4 parts:
 
 # Part 1: Supplementary Material for the Paper
 
-In this repository you can find our term and concept list and all the
-additional list that we publish together with the paper.
+In this repository you can find our term and concept list and the
+additional lists that we publish together with the paper.
 
 The repository can be found here:
 <https://github.com/MatthiasUckert/Terminology>
@@ -61,7 +61,7 @@ The repository can be found here:
 
 # Part 3a: Accompanying R Package - Count Terms in a Corpus
 
-This is the package we use for counting the occurrences of of our term
+This is the package we use for counting the occurrences of our term
 list in our annual report corpus.
 
 The package can be found here:
@@ -69,7 +69,7 @@ The package can be found here:
 
 # Part 3b: Accompanying R Package - Match Company Names
 
-This is the package we use for matching our annual report data set to
+This is the package we use for matching our annual report dataset to
 Worldscope by company name.
 
 The package can be found here:
