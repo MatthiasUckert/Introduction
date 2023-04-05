@@ -61,7 +61,7 @@ The repository can be found here:
 
 # Part 3a: Accompanying R Package - Count Terms in a Corpus
 
-This is the package we use for counting the occurrences of of our term
+This is the package we use for counting the occurrences of our term
 list in our annual report corpus.
 
 The package can be found here:
@@ -69,7 +69,7 @@ The package can be found here:
 
 # Part 3b: Accompanying R Package - Match Company Names
 
-This is the package we use for matching our annual report data set to
+This is the package we use for matching our annual report dataset to
 Worldscope by company name.
 
 The package can be found here:
